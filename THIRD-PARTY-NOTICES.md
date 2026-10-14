@@ -85,7 +85,7 @@ when the package is resolved.
 Humanoid rig for recording and baking demonstrations. It must remain bundled
 with the rest of the project and must not be extracted and redistributed as a
 standalone asset.
-**Files:** `Assets/KinectEnvironment/Characters/`
+**Files:** `Assets/Models_Animations/`
 
 **Usage in this project:** The Ninja character is included as a reference
 Humanoid rig for recording and baking demonstrations. It must remain bundled
